@@ -1,0 +1,7 @@
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\obj\Debug\Constructor Assignment.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\obj\Debug\Constructor Assignment.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\micuc\Documents\GitHub\Constructor-Assignment\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
